@@ -2,6 +2,8 @@
 
 A modern SSH client for macOS and Windows.
 
+Official Website: [https://www.yucox.com](https://www.yucox.com)
+
 ## Features
 
 - **Modern UI** - Clean, themeable interface with dark mode support
