@@ -47,6 +47,10 @@ Minimum version: Windows 7 (64-bit)
 | `Ctrl/Cmd + N` | New Session |
 | `Ctrl/Cmd + Q` | Quit |
 
+## Changelog
+
+See [Releases](../../releases) for version history and changelog.
+
 ## Support
 
 For issues or feature requests, please contact support.
